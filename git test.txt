@@ -1,3 +1,5 @@
 Git test
+Repository: hmj_workspace01
+
 
 Remote test
